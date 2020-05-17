@@ -1,0 +1,34 @@
+{
+	"user_id": "XXX",
+	"user_name": "XXX",
+	"user_address": {
+		"Address": "XXX",
+		"Village": "XXX",
+		"City": "XXX",
+		"State": "XXX",
+		"pin_code": "XXX"
+	},
+	"phone": [123, 123],
+	"date_of_joining": "XXX",
+	"dob": "xxxx - xx - xx",
+	"proof_id": "adhaar / pan id",
+	"image": "https: //aws.bucket.xxxx",
+	"field_info": {
+		"number_of_fields": "XXX",
+		"field_details": [{
+			"field_id": "XXX",
+			"field_address": {
+				"Address": "XXX",
+				"Village": "XXX",
+				"City": "XXX",
+				"State": "XXX",
+				"pin_code": "XXX"
+			},
+			"amount_of_field": "XXX",
+			"soil_type": "XXX",
+			"composit_require_rate": "XXX",
+			"latitude": "xx.xxxx",
+			"longitude": "xxx.xxxxx"
+		}]
+	}
+}
